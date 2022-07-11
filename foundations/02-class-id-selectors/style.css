@@ -1,0 +1,22 @@
+.p {
+    background-color: #FF8886;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+
+}
+
+#first {
+
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#third, #second {
+    font-size: 24px;
+
+}
+
+#second {
+    background-color: #90EE90;
+    font-weight: bold;
+}
+
